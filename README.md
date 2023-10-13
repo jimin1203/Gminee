@@ -11,3 +11,5 @@
 * 학과 : AI융합학부
 * 이메일 : janny1203@naver.com
 * 취미 : Blog, GitHub
+# My TimeTable 
+ <img src="https://github.com/jimin1203/Gminee/assets/127709446/17ead88c-52cd-48d2-b5d5-86c2a82841f0.png" width = "50%" height = "50%">
