@@ -274,7 +274,7 @@ int main(int argc, char *argv[]) {
   delete tempBlk2;
   drawScreen(oScreen, SCREEN_DW);
   delete oScreen;
-  delete iScreen;
+  //delete iScreen;
 
   while ((key = getch()) != 'q') {
     int prevBlock = idxBlockDegree;
